@@ -1,0 +1,11 @@
+[general]
+name=AutoVal
+description=Plugin que monitora mudanças de geometria e atualiza o campo Status automaticamente para Validado.
+version=1.2
+qgisMinimumVersion=3.0
+author=Matheus Ferreira
+email=mff.matheusfernandes@gmail.com
+
+[about]
+qgisMinimumVersion=3.0
+description=Este plugin monitora alterações na geometria de uma camada e atualiza o campo 'Status' para 'Validado' automaticamente.
